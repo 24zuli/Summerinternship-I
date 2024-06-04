@@ -5,6 +5,7 @@ Excited to embark on summer internship at Kevalam Solutions as a Data Analyst an
 I'm super excited to share my experience as a Data Analyst and Machine Learning Intern at Kevalam Solutions for the past few weeks. I've been working on some really interesting projects with Slyce (Slyce Agri World), Gujarat's first online gourmet store, and I wanted to document my learnings so far.
 
 -> Week 1: Diving into Slyce's Data
+
     Day 1: Started off by setting up my environment - got MySQL installed and familiarized myself with Slyce's database.
     Day 2: Looker Studio became my new best friend! Learned about this awesome data visualization tool to bring insights to life.
     Day 3: From theory to practice, I started querying the database to understand Slyce's customers better.
@@ -14,6 +15,7 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
 
 
 -> Week 2: Deliveries, Revenue, and Customer Behavior
+
     Day 7: Focused on delivery efficiency - analyzed the average delivery time per delivery person.
     Day 8: Dived deeper into customer behavior by calculating and analyzing average revenue per user.
     Day 9: Leveled up my data skills by extracting data from an Excel sheet and integrating it into the database.
