@@ -36,6 +36,7 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
 
     Day 19: Started a course on Generative AI - super fascinating stuff! Learned about the fundamentals of AI, machine learning, deep learning, and even cool applications like chatGPT.
     Day 20: Completed the Generative AI course! Learned about LLMs (Large Language Models) - basically AI that can generate text like a human - prompt engineering, and how Generative AI is being used in the real world. I even built a chatbot using OpenAI and some cool libraries like Streamlit, Langchain, and PyPDF2!
+    
 
    -> Technologies and Concepts During Course:
 
@@ -44,7 +45,6 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
    - Deep Learning (DL): Subfield of ML using artificial neural networks with multiple layers to process complex data.
    - Natural Language Processing (NLP): Subfield of AI focused on the interaction between computers and human language.
    - MySQL: A popular open-source relational database management system.
-   - Looker Studio: A data visualization tool from Google.
    - Generative AI: A type of AI that can create new data, like text, images, or code.
    - Large Language Models (LLMs): AI models trained on massive amounts of text data to generate human-quality text.
    - Prompt Engineering: The art of crafting specific prompts or questions to guide the output of an LLM.
@@ -54,4 +54,9 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
    - Langchain: A library for working with large language models.
    - PyPDF2: A Python library for working with PDF files.
    - Responsible AI: The ethical development and use of AI.
-    
+
+
+    Day 21: Began implementing the chatbot as shown in the Gen AI course.
+    Day 22: Created a chatbot capable of answering questions based on a provided document.
+    Day 23: Extended the chatbot's functionality to handle and respond to questions from a specific PDF document.
+    Day 24: Installed Flutter and acquired basic knowledge to integrate the chatbot into a Flutter application.
