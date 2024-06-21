@@ -32,8 +32,6 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
     Day 17: Data transformation, Transformed data for year-wise and quarterly analysis in an Excel sheet.
     Day 18: Polished the design of my reports and dashboards to give them a professional look and feel.
 
-    Reference: https://support.google.com/looker-studio/?hl=en#topic=6267740![image](https://github.com/24zuli/Summerinternship-I/assets/117670617/1c721eff-b3d2-4c35-b5ee-87b07616829c)
-
 
 -> Week 4: Exploring the World of Generative AI
 
