@@ -71,8 +71,6 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
     Day 30: Create ngrok account for test my application on android.
 
 
-  - References:
-
 -> Week 6: Deployment of the application
 
     Day 31: Started creating the chatbot for my slyce project.
