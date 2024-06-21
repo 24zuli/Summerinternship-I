@@ -60,3 +60,24 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
     Day 22: Created a chatbot capable of answering questions based on a provided document.
     Day 23: Extended the chatbot's functionality to handle and respond to questions from a specific PDF document.
     Day 24: Installed Flutter and acquired basic knowledge to integrate the chatbot into a Flutter application.
+
+-> Week 5: created a chatbot for Human Resource Policy
+
+    Day 25: start watching how's the flutter works and grep the live experience by coding it.
+    Day 26: Completed UI for my chatbot application.
+    Day 27: Linked my python backend to my flutter frontend UI.
+    Day 28: Test the application on local server.
+    Day 29: Given a better look to the application.
+    Day 30: Create ngrok account for test my application on android.
+
+
+  - References:
+
+-> Week 6: Deployment of the application
+
+    Day 31: Started creating the chatbot for my slyce project.
+    Day 32: Create a UI for the chatbot using Flutter.
+    Day 33: Trying to connect Flutter directly through the python by giving python dependancies from pub.dev
+    Day 34: Still Working on it Unfortunately its not happen Let's see for the future works it is work or not.
+    Day 35: Deploy the Application.
+    
