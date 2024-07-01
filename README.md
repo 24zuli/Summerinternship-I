@@ -1,4 +1,4 @@
-# Summer Internship-I 🚀
+# 4th Semester Summer Internship 🚀
 
 Excited to embark on summer internship at Kevalam Solutions as a Data Analyst and Machine Learning Intern!  This is a great opportunity to gain valuable experience in the field.
 
