@@ -78,5 +78,5 @@ I'm super excited to share my experience as a Data Analyst and Machine Learning 
     Day 32: Create a UI for the chatbot using Flutter.
     Day 33: Trying to connect Flutter directly through the python by giving python dependancies from pub.dev
     Day 34: Still Working on it Unfortunately its not happen Let's see for the future works it is work or not.
-    Day 35: Deploy the Application.
+    Day 35: wrapup the Application.
     
